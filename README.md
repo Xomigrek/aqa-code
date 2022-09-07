@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3jvca5dddr4kby05?svg=true)](https://ci.appveyor.com/project/Xomigrek/aqa-code)
